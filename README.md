@@ -35,10 +35,13 @@ The dataset contains information related to:
 * Matplotlib / Seaborn
 * Jupyter Notebook
 
-*(Modify this list based on what your project actually uses.)*
+---
+Screenshots
+
+Thumbnail:
+<img width="1334" height="693" alt="Image" src="https://github.com/user-attachments/assets/78012141-6c6a-4c68-a322-ea5221783688" />
 
 ---
-
 ## 📈 Key Analysis Performed
 
 * ✔ Data Cleaning & Preprocessing
