@@ -23,8 +23,6 @@ The dataset contains information related to:
 * 📅 Date / Time period
 * 📍 Region / Market (if applicable)
 
-> *(Update this section with actual column names from your dataset.)*
-
 ---
 
 ## 🛠 Technologies Used
@@ -60,7 +58,6 @@ Thumbnail:
 * Highlighted revenue growth trends
 * Detected underperforming products
 
-*(Replace with real findings from your analysis.)*
 
 ---
 
@@ -132,5 +129,3 @@ Example:
 GitHub: [https://github.com/Sameertrivesh07](https://github.com/Sameertrivesh07)
 
 ---
-
-Tell me which version you want 👌
