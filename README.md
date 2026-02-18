@@ -34,12 +34,7 @@ The dataset contains information related to:
 * Jupyter Notebook
 
 ---
-Screenshots
 
-Thumbnail:
-<img width="1334" height="693" alt="Image" src="https://github.com/user-attachments/assets/78012141-6c6a-4c68-a322-ea5221783688" />
-
----
 ## 📈 Key Analysis Performed
 
 * ✔ Data Cleaning & Preprocessing
@@ -91,17 +86,8 @@ Thumbnail:
 
 ## 📷 Visualizations
 
-Include screenshots of:
-
-* Sales trends graph
-* Production comparison chart
-* Revenue dashboard
-
-Example:
-
-```
-/images/sales_trend.png
-```
+Thumbnail:
+<img width="1334" height="693" alt="Image" src="https://github.com/user-attachments/assets/78012141-6c6a-4c68-a322-ea5221783688" />
 
 ---
 
